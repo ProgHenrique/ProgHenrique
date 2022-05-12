@@ -16,4 +16,6 @@
 ### Contact me 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-ramos-24637a184/)
-[![LinkedIn](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henrique123187@gmail.com?subject=Hello%20I%20see%20your%20github%20profile)
+[![LinkedIn](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henrique123187@gmail.com)
+
+![Snake animation](https://github.com/ProgHenrique/ProgHenrique/blob/output/github-contribution-grid-snake.svg)
