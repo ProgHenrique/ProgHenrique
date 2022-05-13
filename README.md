@@ -1,4 +1,7 @@
-### Hi there 👋 Henrique Ramos
+### 👋Oii me chamo Henrique Ramos, 21
+
+Sempre fui um aficionado por tecnologia e super curioso, e foram esses pilares que trouxeram até aqui.
+Me tornar um Dev Back-end nunca esteve tão perto. Acredito que você também seja um apaixonado(a) vamos caminhar juntos?🧑‍💻🏆
 
 
 ![ProgHenrique GitHub stats](https://github-readme-stats.vercel.app/api?username=ProgHenrique&show_icons=true&theme=radical)
